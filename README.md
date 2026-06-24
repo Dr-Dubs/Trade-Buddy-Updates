@@ -7,3 +7,6 @@
 6. Drag the update file into the “RPI-RP2” drive
 7. After about 20 seconds, the TB will turn on, indicating the update is complete
 8. Unplug the TB from the computer, and the TB is ready for use
+
+
+**File is only meant to be downloaded. This project is not for editing or contributing.**
