@@ -1,5 +1,5 @@
 **Trade Buddy Software Update Instructions:**
-1. Download the most recent .uf2 file here (5.0)
+1. Download the most recent .uf2 file here (5.2)
 2. Get a USB-C cable that can transfer data
 3. Plug one end of the USB-C cable into the computer
 4. While holding the button on the back of the Trade Buddy, plug the other end of the USB-C cable into the Trade Buddy (TB). The TB screen should stay blank.
