@@ -1,6 +1,6 @@
 **Trade Buddy Software Update Instructions:**
 1. Get a USB-C cable that can transfer data
-2. Download the most recent .uf2 file here (5.2)
+2. Download the most recent .uf2 file here (5.5)
 3. Plug one end of the USB-C cable into the computer
 4. While holding the button on the back of the Trade Buddy, plug the other end of the USB-C cable into the Trade Buddy (TB). The TB screen should stay blank.
 5. You should see “RPI-RP2” as a storage or drive on your computer
